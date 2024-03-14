@@ -1,6 +1,10 @@
-# holistics-custom-charts
-Definitions for custom charts using Vega-lite visualizations in Holistics.io
+# holistics-custom-charts (deprecated)
 
+Shift strategry from a dedicated repo to working on a fork of holistics main, and simply contribute:
+
+## Forked: 
+
+https://github.com/stonematt/custom-chart-library
 
 Building on details from
 
